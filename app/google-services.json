@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "389604197827",
+    "firebase_url": "https://baas-a70e1.firebaseio.com",
+    "project_id": "baas-a70e1",
+    "storage_bucket": "baas-a70e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389604197827:android:3814cba015de6adf",
+        "android_client_info": {
+          "package_name": "br.com.taianemaia.androidbaas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389604197827-bksmtve89vcee20s32og4v722bskv930.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.taianemaia.androidbaas",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "389604197827-e5cdd10uuge2klrvnl62c12evdarm49k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyNC47cCf6Y9sJopFUIHIlZjjS6Xrfv24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389604197827-e5cdd10uuge2klrvnl62c12evdarm49k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
